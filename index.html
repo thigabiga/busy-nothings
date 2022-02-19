@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+  <meta charset="utf-8">
+  <title>Busy Nothings</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+  <!-- .container is main centered wrapper -->
+  <div class="container">
+    <div class="row">
+      <div class="one-half column" style="margin-top: 25%">
+        <h4>Busy Nothings</h4>
+        <p>Exploring Austen's world with d3.js.</p>
+      </div>
+    </div>
+
+    <!-- columns should be the immediate child of a .row -->
+    <div class="row">
+      <div class="one-half column" style="margin-top: 25%">
+        <h5>A large income is the best recipe for happiness I ever heard of.</h5>
+        <!-- Create a div where the graph will take place -->
+        <div id="my_dataviz"></div>
+      </div>
+    </div>
+
+    <!-- just use a number and class 'column' or 'columns' -->
+    <div class="row">
+      <div class="two columns">Two</div>
+      <div class="ten columns">Ten</div>
+    </div>
+
+    <!-- there are a few shorthand columns widths as well -->
+    <div class="row">
+      <div class="one-third column">1/3</div>
+      <div class="two-thirds column">2/3</div>
+    </div>
+
+    <div class="row">
+      <div class="one-half column" style="margin-top: 25%">
+        <h6>References</h6>
+        <ol>
+          <li>
+            <a href="https://jasna.org/publications-2/persuasions-online/vol36no1/toran/#:~:text=Darcy's%20annual%20earnings%20are%20%2416%2C436%2C891,merely%20a%20year's%20disposable%20income">
+              <i>The Economics of Jane Austen's World</i>
+            </a> by Katherine Toran
+          </li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="one-half column" style="margin-top: 25%">
+        <p>Site built by <a href="https://www.erinthigpen.com/" target="_blank">Erin Thigpen</a>.</p>
+      </div>
+    </div>
+
+  </div>
+
+<!-- Load d3.js
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Load scripts
+–––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<script src="scripts/lollipop.js" async></script>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>
