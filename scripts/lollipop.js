@@ -5,7 +5,7 @@ var margin = {top: 10, right: 30, bottom: 40, left: 100},
     height = 500 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
-var svg = d3.select("#my_dataviz")
+var svg = d3.select("#lollipop")
   .append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
@@ -23,7 +23,7 @@ data.sort(function(b, a) {
 
 // Add X axis
 var x = d3.scaleLinear()
-  .domain([0, 13000])
+  .domain([0, 12000])
   .range([ 0, width]);
 svg.append("g")
   .attr("transform", "translate(0," + height + ")")

@@ -1,13 +1,43 @@
 Character,Income,Type,Title
-Emma Woodhouse,3000,MC,Emma
-Paul Rudd,3000,LI,Emma
-Elinor Dashwood,500,MC,Sense & Sensibility
-Elinor Dashwood's Cousin,500,LI,Sense & Sensibility
+Emma Woodhouse,1500,MC,Emma
+Mrs. and Miss Bates,100,SC,Emma
+Miss Campbell,600,SC,Emma
+Augusta Hawkins Elton,500,SC,Emma
 Fanny Price,500,MC,Mansfield Park
-Edmund Whatshisname,500,LI,Mansfield Park
-Catherine Moreland,500,MC,Northanger Abbey
+Edmund Bertram,700,LI,Mansfield Park
+Henry Crawford,4000,SC,Mansfield Park
+Mary Crawford,1000,SC,Mansfield Park
+Maria Ward Bertram,350,SC,Mansfield Park
+Mrs. Grant,250,SC,Mansfield Park
+Rev. Norris,1000,SC,Mansfield Park
+Mr. Rushworth,12000,SC,Mansfield Park
+Catherine Morland,150,MC,Northanger Abbey
 Henry Tilney,500,LI,Northanger Abbey
-Elizabeth Bennet,400,MC,Pride & Prejudice
-Jane Bennet,400,MC,Pride & Prejudice
+Mrs. Tilney,1000,SC,Northanger Abbey
+James Morland,400,SC,Northanger Abbey
+Elizabeth Bennet,40,MC,Pride & Prejudice
 Mr. Darcy,10000,LI,Pride & Prejudice
-Mr. Bingley,10000,LI,Pride & Prejudice
+Jane Bennet,40,SC,Pride & Prejudice
+Charles Bingley,5000,SC,Pride & Prejudice
+Lydia Bennet,40,SC,Pride & Prejudice
+Mary Bennet,40,SC,Pride & Prejudice
+Kitty Bennet,40,SC,Pride & Prejudice
+Mr. Bennet,2000,SC,Pride & Prejudice
+Mrs. Bennet,200,SC,Pride & Prejudice
+Mr. Wickham,150,SC,Pride & Prejudice
+Caroline Bingley,1000,SC,Pride & Prejudice
+Louisa Bingley Hurst,1000,SC,Pride & Prejudice
+Georgiana Darcy,1500,SC,Pride & Prejudice
+Mary King,500,SC,Pride & Prejudice
+Elinor Dashwood,50,MC,Sense & Sensibility
+Edward Ferrars,850,LI,Sense & Sensibility
+Robert Ferrars,1000,LI,Sense & Sensibility
+Marianne Dashwood,50,SC,Sense & Sensibility
+Margaret Dashwood,50,SC,Sense & Sensibility
+Colonel Brandon,2000,SC,Sense & Sensibility
+Mr. Willoughby,700,SC,Sense & Sensibility
+Miss Grey,2500,SC,Sense & Sensibility
+Hon. Miss Morton,1500,SC,Sense & Sensibility
+Mrs. Dashwood,500,SC,Sense & Sensibility
+Captain Wentworth,1250,LI,Persuasion
+Anne Elliot,150,MC,Persuasion
